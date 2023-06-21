@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@carbon/react": "latest",
+    "axios": "0.27.2",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "keywords": [],
+  "name": "datatable-pagination-w-thecatapi",
+  "description": ""
+}
